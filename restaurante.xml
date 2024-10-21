@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<carta_restaurante nombre="Grande es el Capitán">
+    
+    <contacto>
+        <telefono>678123456</telefono>
+        <telefono>957224466</telefono>
+        <telefono>957987654</telefono>
+    </contacto>
+    
+    <platos>
+        <plato tipo="primero">
+            <nombre>Croquetas de jamón ibérico</nombre>
+            <alergenos>
+                <alergeno>Gluten</alergeno>
+                <alergeno>Huevos</alergeno>
+                <alergeno>Lácteos</alergeno>
+            </alergenos>
+            <precios>
+                <precio tipo="media_racion">8 euros</precio>
+                <precio tipo="racion">11 euros</precio>
+            </precios>
+            <valor_energetico cantidad="1 croqueta (85g)">149 Kcal</valor_energetico>
+        </plato>
+        
+        <plato tipo="segundo">
+            <nombre>Gazpacho andaluz</nombre>
+            <alergenos>
+                <alergeno>Gluten</alergeno>
+            </alergenos>
+            <precio tipo="vaso (250ml)">4 euros</precio>
+            <valor_energetico cantidad="100g">63 Kcal</valor_energetico>
+        </plato>
+        
+        <plato tipo="tercero">
+            <nombre>Rabo de toro</nombre>
+            <alergenos>
+                <alergeno>Gluten</alergeno>
+                <alergeno>Lácteos</alergeno>
+                <alergeno>Sulfitos</alergeno>
+            </alergenos>
+            <precio tipo="racion">13 euros</precio>
+            <valor_energetico cantidad="100g">217 Kcal</valor_energetico>
+        </plato>
+    </platos>
+    
+    <!-- Elemento vacío -->
+    <comentario></comentario> 
+</carta_restaurante>
