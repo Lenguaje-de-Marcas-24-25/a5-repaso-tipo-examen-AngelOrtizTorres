@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    
+    <producto codigo="P1">
+        <nombre>Teléfono móvil XYZ</nombre>
+        <descripcion>Teléfono móvil de última generación con 128GB de almacenamiento y cámara de 12MP.</descripcion>
+        <precio>799.99</precio>
+        <categoria>Electrónica</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://www.tienda.com/images/telefono_xyz.jpg</imagen>
+    </producto>
+    
+    <producto codigo="P2">
+        <nombre>Auriculares inalámbricos ABC</nombre>
+        <descripcion>Auriculares Bluetooth con cancelación de ruido y 24 horas de batería.</descripcion>
+        <precio>199.99</precio>
+        <categoria>Accesorios</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://www.tienda.com/images/auriculares_abc.jpg</imagen>
+    </producto>
+    
+    <producto codigo="P3">
+        <nombre>Portátil Ultra Slim 14"</nombre>
+        <descripcion>Portátil ligero con pantalla de 14 pulgadas, procesador Intel i7 y 16GB de RAM.</descripcion>
+        <precio>1200.00</precio>
+        <categoria>Informática</categoria>
+        <disponibilidad>Agotado</disponibilidad>
+        <imagen>https://www.tienda.com/images/portatil_ultraslim.jpg</imagen>
+    </producto>
+    
+    <producto codigo="P4">
+        <nombre>Reloj inteligente DEF</nombre>
+        <descripcion>Reloj inteligente con GPS, monitor de actividad y resistencia al agua.</descripcion>
+        <precio>249.99</precio>
+        <categoria>Wearables</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://www.tienda.com/images/reloj_inteligente_def.jpg</imagen>
+    </producto>
+    
+    <producto codigo="P5">
+        <nombre>Cámara de acción 4K</nombre>
+        <descripcion>Cámara de acción resistente al agua con grabación en 4K y estabilización de imagen.</descripcion>
+        <precio>349.99</precio>
+        <categoria>Fotografía</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>https://www.tienda.com/images/camara_accion_4k.jpg</imagen>
+    </producto>
+
+</tienda>
